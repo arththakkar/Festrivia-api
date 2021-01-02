@@ -164,7 +164,7 @@ table.display thead th {
 	cursor: pointer;
 	background-color:#eee;
 	color:#444;
-	* cursor: hand;
+	cursor: hand;
 }
 
 table.display tfoot th {
